@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: ed7e3c16c5055e5478a7084745b82387
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 367
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c92df3b833a404ebd5764399ba0328
+      internalID: 841124577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 356
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead5970b3089b1d45a142fdfdfc9b9a2
+      internalID: -766637159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 354
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e22bf1631c2e442b012870d33833d0
+      internalID: 50592750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 353
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66dfe766f275ff4d948178ac3371487
+      internalID: 962490617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 347
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d8f3730cb0f9489b3c47bf0ce79d3
+      internalID: -604955208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 232
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ab841ff320094d9565c6391290354
+      internalID: 265375386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 227
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884eb4244818c347bdcae810aeb6529
+      internalID: 580417630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 226
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba2a0b7eb99a1547a2c8de576909336
+      internalID: -620780481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 228
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66087fe79df11744c81902ee3ec0a35e
+      internalID: 1676428984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 224
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a74a76333fb14e8d8bc77184ce277
+      internalID: -1425824651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 117
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa667c0fe4aa4c46b2fad8ca6e76463
+      internalID: 528974484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3267c90c81be7489e5cff29db4ab51
+      internalID: 1196663379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e4d94e47c4f90498dfdd88086cde78
+      internalID: -1193582312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 120
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e998ecf3c47e42f488be0acea771eb83
+      internalID: 1870968248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 340
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276e8db6d2046a345bec2480642396a8
+      internalID: 1125688432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 120
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d324f46f9bba64ca11bb3f7f4de18c
+      internalID: 1679463280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 121
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24382805d80acf4fae4ee2c226f9ed8
+      internalID: -1988658570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_6: 580417630
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_2: 50592750
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_7: -620780481
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_12: -1193582312
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_8: 1676428984
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_3: 962490617
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_4: -604955208
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_0: 841124577
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_11: 1196663379
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_13: 1870968248
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_1: -766637159
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_16: -1988658570
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_5: 265375386
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_15: 1679463280
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_9: -1425824651
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_10: 528974484
+      png-transparent-sprite-explosion-animated-film-2d-computer-graphics-sprite-game-text-spacecraft-removebg-preview_14: 1125688432
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
